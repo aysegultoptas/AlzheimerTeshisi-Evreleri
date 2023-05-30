@@ -1,0 +1,1 @@
+# AlzheimerTeshisi-Evreleri
