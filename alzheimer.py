@@ -13,7 +13,7 @@ import os
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPooling2D,Input
 
-base_dir =r'C:/Users/ayseg/archive/Alzheimer_s Dataset/'
+base_dir = #datapath
 
 train = ImageDataGenerator(rescale=1./255)
 test =  ImageDataGenerator(rescale=1./255)
